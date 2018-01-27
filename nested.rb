@@ -137,4 +137,6 @@ def adding_to_dennis
 
 		languages << "Assembly"
 
+		programmer_hash
+
 end
